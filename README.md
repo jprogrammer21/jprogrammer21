@@ -1,13 +1,13 @@
 <h1 align="center">hola👋, me llamo Jesús peñaranda</h1>
 <h3 align="center">Soy un desarrollador de software apasionado</h3>
 
-- 🌱 I’m currently learning **Flutter con dart**
+- 🌱 Actualmente estoy aprendiendo Flutter con dart**
 
-- 💬 Ask me about **react,laravel,django,html,css,javascript**
+- 💬 Pregúntame sobre **react,laravel,django,html,css,javascript,python y php**
 
-- 📫 How to reach me **jesusprogrammer04@gmail.com**
+- 📫 Cómo ponerse en contacto conmigo **jesusprogrammer04@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jesuspeñarandapro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesuspeñarandapro" height="30" width="40" /></a>
 </p>
